@@ -2,7 +2,7 @@ SW cairo repo Cairo 1 Account from tag alpha-6
 
 # 1. Download cairo repo
 
-Switch to target tag version alpha6
+Switch to target tag version alpha-6
 `cargo test`
 
 # 1.1. Compile to Starknet Sierra json
